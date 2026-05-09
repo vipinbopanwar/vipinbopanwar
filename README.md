@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **E-commerce Apps**
 - 🌱 I’m learning **AWS, Linux, DevOps Tools**
 - 💬 Ask me about **Cloud, Linux, DevOps, and Automation**
-- 📫 Reach me at **bopanwarvipin@gmail.com**
+- 📫 Reach me at **vipinbopanwar02@gmail.com**
 - ⚡ Fun fact: *I love cricket, but I don’t play it* 🏏
 
 ---
