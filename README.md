@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipin Bopanwar</h1>
-<h3 align="center">💻 Aspiring DevOps & Cloud Engineer | Linux | AWS | CI/CD</h3>
+<h3 align="center">💻 DevOps & Cloud Engineer | Linux | AWS | CI/CD</h3>
 <h4 align="center">🎓 B.Tech Graduate - Rajiv Gandhi College of Engineering, Research and Technolodgy, Chandrapur</h4>
 
 <p align="center">
